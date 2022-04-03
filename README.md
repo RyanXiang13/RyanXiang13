@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Java and attempting to learn C
 
-💞️ I’m looking to collaborate on some python and/or JS projects
+💞️ I’m looking to collaborate on some python and/or Web projects
 
 📫 You can add me on discord @Ryan.#5647
 
