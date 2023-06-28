@@ -2,11 +2,11 @@
 
 👀 I’m interested in computer science, math, and sports!!
 
-🌱 I’m currently learning Java and attempting to learn C#/++
+🌱 Trying to learn C++, SQL, and more Front-End
 
-💞️ I’m looking to collaborate on some python and/or Web projects
+💞️ I’m looking to collaborate on some python/java projects or web applications
 
-📫 You can add me on discord @Ryan.#5647
+📫 You can add me on discord @ryanx13
 
 
 <!---
