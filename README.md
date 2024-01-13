@@ -1,5 +1,5 @@
 # 💫 About Me:
-First year student at the University of Waterloo studying Computer Science.<br>I enjoy creating projects during my free time and I'm currently working on one that is basketball-related.<br>I'm also currently learning C++!<br><br><br><br><br>
+First year student at the University of Waterloo studying Computer Science.<br>I enjoy creating projects during my free time and I'm currently working on one that is basketball-related.<br>I'm also currently learning C++!<br><br><br><
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ryanx13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/xiangryan) 
